@@ -4,7 +4,10 @@
 
 🔭 I’m an IfcOpenShell / BonsaiBIM developper
 
-🔭 I teach ifcopenshell and Bonsai BIM on www.aeco.dev
+🔭 I build and teach you how to build custom tools for Architecture, Engineering and Constructution (some day perhaps Operations). 
+
+---
+
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yassine-oualid-aa686270/)
 
